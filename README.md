@@ -49,3 +49,5 @@ You should see output that looks like the following:
 LDAP server listening on 0.0.0.0:9999
 HTTP server listening on 0.0.0.0:8000
 ```
+
+Credits: the original POC is available at https://github.com/dogeared/log4shell-poc.
